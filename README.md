@@ -27,7 +27,7 @@ Here are the technologies I work with most frequently.
 | Category | Technologies |
 | :---: | :--- |
 | **Backend / Core** | <img src="https://skillicons.dev/icons?i=cs,dotnet" /> |
-| **Database / ORM** | <img src="https://skillicons.dev/icons?i=mysql,mssql,entityframework" /> |
+| **Database / ORM** | MySQL, MS SQL Server, Entity Framework Core |
 | **Frontend / Web** | <img src="https://skillicons.dev/icons?i=js,html,css" /> |
 
 ---
@@ -36,6 +36,7 @@ Here are the technologies I work with most frequently.
 
 I regularly practice on LeetCode to keep my problem-solving skills sharp.
 
+***(Clickable badge to view profile)***
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/kashk0v)
 
 | Difficulty | Easy | Medium | Hard |
